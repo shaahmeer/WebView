@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     WebView wv;
 
-    String url="http://www.ppimoskow.com";
+    String url="http://www.google.com";
 
     @RequiresApi(api = Build.VERSION_CODES.JELLY_BEAN_MR1)
     @Override
